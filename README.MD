@@ -24,12 +24,12 @@ Este projeto oferece uma aplicação interativa usando Streamlit para visualizar
 
 📁 Estrutura de Arquivos
 📦 projeto-analise-vendas/
- ┣ 📜 app.py                # Código principal do dashboard
- ┣ 📜 requirements.txt      # Lista de dependências
- ┣ 📜 .gitignore            # Ignora arquivos desnecessários, como `.venv/`
- ┗ 📁 .venv/                # Ambiente virtual (não incluído no repositório)
+* ┣ 📜 app.py                # Código principal do dashboard
+* ┣ 📜 requirements.txt      # Lista de dependências
+* ┣ 📜 .gitignore            # Ignora arquivos desnecessários, como `.venv/`
+* ┗ 📁 .venv/                # Ambiente virtual (não incluído no repositório)
 
-
+
 
 ⚙️ Como Rodar o Projeto Localmente
 - Clone o repositório
