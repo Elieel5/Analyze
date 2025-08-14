@@ -33,7 +33,7 @@ Este projeto oferece uma aplicação interativa usando Streamlit para visualizar
 
 ⚙️ Como Rodar o Projeto Localmente
 - Clone o repositório
-git clone https://github.com/seu-usuario/projeto-analise-vendas.git
+git clone https://github.com/seu-usuario/Analyze.git
 cd projeto-analise-vendas
 - Crie e ative o ambiente virtual
 python -m venv .venv
